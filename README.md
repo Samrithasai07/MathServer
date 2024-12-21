@@ -96,11 +96,13 @@ h1 {
 ```
 
 ## SERVER SIDE PROCESSING:
-![server-1](https://github.com/user-attachments/assets/1a9e06b7-4779-4449-b12c-7b3bb814bfe5)
+![Screenshot 2024-12-21 155905](https://github.com/user-attachments/assets/0cd888b8-44ef-4bbc-90df-a96807152619)
+
 
 
 ## HOMEPAGE:
-![Screenshot 2024-12-21 155905](https://github.com/user-attachments/assets/15d5a370-1960-4c87-8943-86f38e6e6fe8)
+![server-1](https://github.com/user-attachments/assets/27249bc9-8146-4d9c-9b55-0774e4bfbf1f)
+
 
 
 ## RESULT:
